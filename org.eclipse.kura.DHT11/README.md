@@ -98,3 +98,6 @@ This project is java based OSGi Bundle that is installed on Eclipse Kura (An IOT
 	
          https://www.youtube.com/watch?v=iMiBjzKHBuk
 	 
+  10. For detailed documnetation please refer below link.
+	https://drive.google.com/open?id=1R-RES8O6mTF6Y1TtHYa7lByoGInlLLtJ
+	
